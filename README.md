@@ -1,5 +1,5 @@
 # Zip File
-
+A self-explanatory guide for resume crafting. Download & Extract the zip, go through the folders number-wise and that's it :)
 
 ### Check Nadir's Repo
 https://github.com/NADIRHUSSAIN11/nadir-hussain-resume-template
